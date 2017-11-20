@@ -1,0 +1,168 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.fullwidth{
+    width: 100%;
+}
+.no_pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_mar{
+    margin-left: 0;
+    margin-right: 0;
+}
+.logo{
+    margin-top: 36px;
+}
+.slide{
+    background-image: url(slidebg.png);
+    min-height: 680px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.navbar{border: 0;margin-top: 19px;
+    background-color: transparent;margin-left: 80px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;padding-right: 37px;
+}
+.social{
+    margin-left: 100px;font-size: 17px;
+}
+.des{
+    color: white;
+    margin-top: 130px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+    font-family: 'Ubuntu', sans-serif;font-weight: bold;
+    font-size: 30pt;
+    margin-bottom: 10px;
+}
+.des_buttons{
+    border: 0;
+    list-style: none;
+}
+.feat_sec{
+    min-height: 459px;
+}
+.fs_h{
+        padding: 0px 37%;
+    font-weight: bold;
+    color: #648cff;
+    font-size: 24px;
+    margin-top: 100px;
+}
+.box{
+   padding: 0 5%;
+    min-height: 136px;
+    margin-top: 130px;
+}
+.box_img{
+    margin-top: 16%;
+}
+.box h4{
+    font-weight: bold;
+}
+.box p{
+    color: #aeaeae;
+}
+.wid_h{
+        padding: 0px 40%;
+    font-weight: bold;
+    color: #648cff;
+    font-size: 24px;
+    margin-top: 100px;
+}
+.sub_header{
+       padding: 0px 46%;
+    font-weight: bold;
+    color: #999999;
+    font-size: 10px;
+    margin-top: 5px;
+}
+.arrow {
+    margin-top: 268%;
+}
+.screen_h{
+        padding: 0px 42%;
+    font-weight: bold;
+    color: #648cff;
+    font-size: 24px;
+    margin-top: 100px;
+}
+.screen_sub_header{
+       padding: 0px 45%;
+    font-weight: bold;
+    color: #999999;
+    font-size: 10px;
+    margin-top: 5px;
+}
+.ss_wh{
+        padding: 0px 0%;
+    font-weight: bold;
+    color: #648cff;
+    font-size: 24px;
+    margin-top: 19px
+}
+.ss_writeups{
+    margin-top: 33%;
+}
+.ssboxes{
+    padding-top: 10%;
+}
+.p_screen_h{
+        padding: 0px 34%;
+    font-weight: bold;
+    color: #648cff;
+    font-size: 24px;
+    margin-top: 100px;
+}
+.p_screen_sub_header{
+        padding: 0px 47%;
+    font-weight: bold;
+    color: #999999;
+    font-size: 17px;
+    margin-top: 5px;
+}
+.quotes{
+    margin-top: 2%;
+    font-size: 14pt;
+}
+.quote_baksho{
+    margin-top: 2.5%;
+}
+.quotes{
+    margin-top: 0;
+    font-size: 14pt;
+}
+.getapp{
+    background-image: url(3taphone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+        min-height: 50%;
+    width: 100%;
+}
+.bluebg{
+    background-color: #648cff;
+}
+.appwrite{padding-top: 8%;
+    color: white;
+}
+.appwrite p{
+    padding-top: 8%;
+}
+.appbut{
+    padding-top: 3%;
+}
+.foo{
+    background-color: #353854;
+}
+.navbar-default .foot .navbar-nav>li>a {
+    color: #9b9cb0;padding-right: 37px;
+}
+.copy{padding-top: 5%;
+    border-top: 1px solid #9b9cb0;color: #9b9cb0;
+}
